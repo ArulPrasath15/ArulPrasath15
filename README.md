@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArulPrasath15" alt="ArulPrasath15" /> </p>
 
-
+<p align="left">Coffee | Gaming | Technology |</p>
 
 ### Connect with me:
 
