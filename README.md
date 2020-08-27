@@ -1,8 +1,7 @@
 ## Hey there, I'm Arul Prasath V <img alt="PRO" width="22px" style="margin-top:10px;" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-abinash" alt="s-abinash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArulPrasath15" alt="ArulPrasath15" /> </p>
 
-### I'm a Student!
 
 
 ### Connect with me:
