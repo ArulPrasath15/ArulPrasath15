@@ -1,10 +1,44 @@
-<h1 align="center">Hi 👋, I'm Arul Prasath V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hey there, I'm Arul Prasath V <img alt="PRO" width="22px" style="margin-top:10px;" src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arulprasath15" alt="arulprasath15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-abinash" alt="s-abinash" /> </p>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arulprasath15&show_icons=true" alt="arulprasath15" /></p>
+### I'm a Student!
 
-<p align="center">
-<a href="https://instagram.com/arul__officical" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arul__officical" height="30" width="30" /></a>
-</p>
+
+### Connect with me:
+
+
+[<img align="left" alt="Arul Prasath | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/arul__official)
+[<img align="left" alt="Arul Prasath | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](http://t.me/ArulPrasathv)
+[<img align="left" alt="Arul Prasath | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/arul-prasath-v-832657146/)
+[<img align="left" alt="Arul Prasath | Outlook" width="22px" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>](mailto:arulprasath73@outlook.com)
+
+
+<br />
+
+### Languages and Tools known:
+
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="PHP" src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+<br />
+<br />
+<div>
+<img align="left" width="50%" alt="Arul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArulPrasath15&show_icons=true&hide_border=true" />
+<img align="right" alt="Arul's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-ArulPrasath15&layout=compact&hide=TSQL"/>
+</div>
