@@ -33,6 +33,8 @@
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" alt="Firebase" width="26px" src="https://user-images.githubusercontent.com/55018691/114895706-5911fc80-9e2d-11eb-9c0f-43245457c34a.png"/>
+
 
 <br />
 <br />
