@@ -41,6 +41,6 @@
 <br />
 <br />
 <div>
-<img align="left" width="50%" alt="Arul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArulPrasath15&show_icons=true&hide_border=true" />
+<img align="left" width="50%" alt="Arul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArulPrasath&show_icons=true&hide_border=true" />
 <img align="right" alt="Arul's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArulPrasath15&layout=compact&hide=TSQL"/>
 </div>
