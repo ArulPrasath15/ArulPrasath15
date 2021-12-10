@@ -34,7 +34,7 @@
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img align="left" alt="Firebase" width="26px" src="https://user-images.githubusercontent.com/55018691/114895706-5911fc80-9e2d-11eb-9c0f-43245457c34a.png"/>
-<img align="left" alt="Terraform" width="26px" src="![image](https://user-images.githubusercontent.com/55018691/145536071-6ff74664-715f-45d0-ae9c-20176fdb91f5.png)"/>
+<img align="left" alt="Terraform" src="![image](https://user-images.githubusercontent.com/55018691/145536071-6ff74664-715f-45d0-ae9c-20176fdb91f5.png)"/>
 
 
 
